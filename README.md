@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adunniagboola
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Data Science and AI
+- 🌱 I’m currently learning Data Science, AI and Blockchain Analyst
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ... adeolaagboola84@84.gmail
 
